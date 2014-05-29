@@ -2,7 +2,7 @@
 title: Jakiś tam tytuł
 ---
 # Nagłówek
-Jakis tekst 
+Jakiś tekst 
 
 Akapit
 * punkt 1
